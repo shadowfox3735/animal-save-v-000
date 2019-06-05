@@ -20,4 +20,6 @@ html {
 
 /* Write your solution here */
 
-@media 
+@media only screen and (min-width:) {
+  
+}
